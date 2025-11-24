@@ -1,12 +1,18 @@
-# MHF Patch Server
+# MHF Patch Server - MHF Custom Launcher Edition
 
 This project is based on the original patch server by rockisch:
 https://github.com/rockisch/mhf-patch-server
 
-The goal of this fork is to provide a patch server configuration tailored for ButterClient
-and an Italian public Monster Hunter Frontier Z server.
+It provides a patch server configuration tailored for the **MHF Custom Launcher**.
+
+## Credits
 
 ## Credits
 
 Original MHF Patch Server by rockisch (MIT license):
-https://github.com/rockisch/mhf-patch-server
+[rockisch](https://github.com/rockisch).
+
+Launcher integration originally developed for ButterClient by [LilButter](https://github.com/LilButter),
+adapted here for **MHF Custom Launcher** by [mrsasy89](https://github.com/mrsasy89).
+
+

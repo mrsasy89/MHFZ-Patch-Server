@@ -1,4 +1,4 @@
-# MHF Patch Server - MHF Custom Launcher Edition
+# MHFZ Patch Server - MHFZ-Launcher Edition
 
 This project is based on the original patch server by rockisch:
 https://github.com/rockisch/mhf-patch-server
@@ -13,6 +13,6 @@ Original MHF Patch Server by rockisch (MIT license):
 [rockisch](https://github.com/rockisch).
 
 Launcher integration originally developed for ButterClient by [LilButter](https://github.com/LilButter),
-adapted here for **MHF Custom Launcher** by [mrsasy89](https://github.com/mrsasy89).
+adapted here for **MHZ-Launcher** by [mrsasy89](https://github.com/mrsasy89).
 
 

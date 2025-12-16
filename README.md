@@ -11,6 +11,6 @@ Original MHF Patch Server by rockisch (MIT license):
 [rockisch](https://github.com/rockisch).
 
 Launcher integration originally developed for ButterClient by [LilButter](https://github.com/LilButter),
-adapted here for **MHZ-Launcher** by [mrsasy89](https://github.com/mrsasy89).
+adapted here for **MHFZ-Launcher** by [mrsasy89](https://github.com/mrsasy89).
 
 

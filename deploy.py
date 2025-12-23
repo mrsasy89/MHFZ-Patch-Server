@@ -5,8 +5,8 @@ from zipfile import ZipFile, ZIP_DEFLATED
 ROOT = Path(__file__).parent
 
 RELEASE_DIR = ROOT / "releases"
-WIN_DIR     = RELEASE_DIR / "Windows" / "PATCHSERVER"
-LINUX_DIR   = RELEASE_DIR / "Linux" / "PATCHSERVER"
+WIN_DIR     = RELEASE_DIR / "Windows" / "patchserver"
+LINUX_DIR   = RELEASE_DIR / "Linux" / "patchserver"
 
 def clean_dir(path: Path):
     if path.exists():
